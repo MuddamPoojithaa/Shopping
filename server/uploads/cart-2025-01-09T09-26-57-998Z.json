@@ -1,0 +1,16 @@
+[
+  {
+    "id": 2,
+    "name": "Men Self Design Polo T-Shirt",
+    "price": 2000,
+    "image": "images/32-el-p-cot-el-cielo-original-imagu75yvuxbyhrh.webp",
+    "quantity": 6
+  },
+  {
+    "id": 3,
+    "name": "Men Printed Round Neck T-Shirt",
+    "price": 3000,
+    "image": "images/m-tblrnfulsweat-plain-tripr-original-imah58ggcje9gs4q.webp",
+    "quantity": 1
+  }
+]

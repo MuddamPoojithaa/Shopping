@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Men Solid Round Neck T-Shirt",
+    "price": 1000,
+    "image": "images/30-bi-trouser-combraided-original-imagyzfzbbu78gre.webp",
+    "quantity": 2
+  },
+  {
+    "id": 2,
+    "name": "Men Self Design Polo T-Shirt",
+    "price": 2000,
+    "image": "images/32-el-p-cot-el-cielo-original-imagu75yvuxbyhrh.webp",
+    "quantity": 1
+  }
+]
